@@ -10,7 +10,7 @@ Introdução aos ambientes virtuais e interfaces Web · Mestrado em Curadoria e 
 - **GitHub username(s):**
 - **Project title:**
 - **Institution or archive whose interface we are working on:**
-- **Link to our design file (Figma, Penpot or Canva), view access for the instructor:**
+- **Link to our design file (e.g.Figma, Penpot or Canva), view access for the instructor:**
 
 ## Use of AI
 
